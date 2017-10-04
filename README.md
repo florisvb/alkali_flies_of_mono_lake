@@ -7,14 +7,14 @@ Data and software associated with the paper "Super-hydrophobic diving flies (Eph
 * ROS (Robot Operating System, Kinetic): http://wiki.ros.org/kinetic/Installation/Ubuntu
 * apt-get repositories: git python-pip python-scipy python-h5py python-progressbar python-sympy python-networkx
 * Manual downloads: 
-** https://github.com/taynaud/python-louvain/
-** http://www.pyqtgraph.org/
+..* https://github.com/taynaud/python-louvain/
+..* http://www.pyqtgraph.org/
 * pip installs: pandas (0.19), statsmodels
 * My packages:
-** FigureFirst: https://github.com/FlyRanch/figurefirst
-** FlyPlotLib: https://github.com/florisvb/FlyPlotLib
-** DataFit: https://github.com/florisvb/DataFit
-** FlyStat: https://github.com/florisvb/FlyStat
+..* FigureFirst: https://github.com/FlyRanch/figurefirst
+..* FlyPlotLib: https://github.com/florisvb/FlyPlotLib
+..* DataFit: https://github.com/florisvb/DataFit
+..* FlyStat: https://github.com/florisvb/FlyStat
 * Inkscape
 
 You may wish to do all of this in a virtual environment.
