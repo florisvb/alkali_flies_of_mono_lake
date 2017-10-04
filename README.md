@@ -2,21 +2,20 @@
 Data and software associated with the paper "Super-hydrophobic diving flies (Ephydra hians) and the hypersaline waters of Mono Lake"
 
 ## What you need to run our analysis
-*Ubuntu (we used Ubuntu 12-16)
-*Python (2.7)
-*ROS (Robot Operating System, Kinetic): http://wiki.ros.org/kinetic/Installation/Ubuntu
-*apt-get repositories: git python-pip python-scipy python-h5py python-progressbar python-sympy python-networkx
-*Manual downloads: 
-**https://github.com/taynaud/python-louvain/
-**http://www.pyqtgraph.org/
-*pip installs: pandas (0.19), statsmodels
-*My packages:
-**FigureFirst: https://github.com/FlyRanch/figurefirst
-**https://github.com/FlyRanch/figurefirst
-**https://github.com/florisvb/FlyPlotLib
-**https://github.com/florisvb/DataFit
-**https://github.com/florisvb/FlyStat
-*Inkscape
+* Ubuntu (we used Ubuntu 12-16)
+* Python (2.7)
+* ROS (Robot Operating System, Kinetic): http://wiki.ros.org/kinetic/Installation/Ubuntu
+* apt-get repositories: git python-pip python-scipy python-h5py python-progressbar python-sympy python-networkx
+* Manual downloads: 
+** https://github.com/taynaud/python-louvain/
+** http://www.pyqtgraph.org/
+* pip installs: pandas (0.19), statsmodels
+* My packages:
+** FigureFirst: https://github.com/FlyRanch/figurefirst
+** FlyPlotLib: https://github.com/florisvb/FlyPlotLib
+** DataFit: https://github.com/florisvb/DataFit
+** FlyStat: https://github.com/florisvb/FlyStat
+* Inkscape
 
 You may wish to do all of this in a virtual environment.
 
