@@ -1,6 +1,6 @@
 import os
 
-
+figure_s5 = '/home/caveman/Dropbox (flyranch)/2017_Mono/analysis/figure2_solutions/figure_s5.svg'
 figure2 = '/home/caveman/Dropbox (flyranch)/2017_Mono/analysis/figure2_solutions/figure2.svg'
 figure3 = '/home/caveman/Dropbox (flyranch)/2017_Mono/analysis/figure3_species/figure3_species_v2.svg'
 figure3_chc = '/home/caveman/Dropbox (flyranch)/2017_Mono/analysis/figure3_species/figure3_species_CHC.svg'

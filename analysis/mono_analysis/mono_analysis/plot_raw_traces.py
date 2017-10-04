@@ -1099,15 +1099,15 @@ def make_figure_2(baselinesubtract=False):
     layout.write_svg(mono_paper_locations.figure_template_locations.figure2 )
     
 def make_angle_plot_for_field_flies():
-
-    layout = get_paper_layout('figure_s1.svg')
+    angle_plot_layout = mono_paper_locations.figure_template_locations.figure_s5
+    layout = get_paper_layout(angle_plot_layout)
     
     axes = {}
     tags = ['before', 'in', 'underwater', 'out', 'after']
     for tag in tags:
         axes[tag] = layout.axes[('field_exps', tag)]
     
-    summary_data_out, experiments_to_solutions, experiments_to_colors = make_figure('/media/Orchard2/monolake/liveflies/live_from_the_field_ephydra_acetonedips', calc='peak', axes=axes, solution_to_plot='water', make_ax_spines_clean=True, ylim=[-.0006, .00125] )
+    summary_data_out, experiments_to_solutions, experiments_to_colors = make_figure(mono_paper_locations.data_locations.liveflies_from_the_field, calc='peak', axes=axes, solution_to_plot='water', make_ax_spines_clean=False, ylim=[-.0006, .00125] )
     
     fly_angles_20150729 = {  'fly2': 10,
                              'fly3': 45,
@@ -1144,7 +1144,12 @@ def make_angle_plot_for_field_flies():
         ax.plot(xs, ys, color='red',zorder=-10)
     ax.set_ylim(-0.0005, 0.00125)
     ax.set_xlim(0,150)
-    figurefirst.mpl_functions.adjust_spines(ax, [])
+    
+    ax.set_yticks([0,0.001])
+    figurefirst.mpl_functions.adjust_spines(ax, ['left'], yticks=[0,0.001], spine_locations={'left': 5})
+    ax.set_yticklabels(['0', '1'])
+    flytext.set_fontsize(ax.figure, 6) 
+
     
     if 1:
         ax = layout.axes[('field_exps', 'angle_out')]
@@ -1162,11 +1167,15 @@ def make_angle_plot_for_field_flies():
             ax.plot(xs, ys, color='red',zorder=-10)
         ax.set_ylim(-0.0005, 0.0012)
         ax.set_xlim(0,150)
-        figurefirst.mpl_functions.adjust_spines(ax, [])
+        
+        ax.set_yticks([0,0.001])
+        figurefirst.mpl_functions.adjust_spines(ax, ['left'], yticks=[0,0.001], spine_locations={'left': 5})
+        ax.set_yticklabels(['0', '1'])
+        flytext.set_fontsize(ax.figure, 6) 
     
     
     layout.append_figure_to_layer(layout.figures['field_exps'], 'field_exps', cleartarget=True)
-    layout.write_svg('figure_s1.svg' )
+    layout.write_svg( angle_plot_layout )
     
     
 def make_figure_5(baselinesubtract=False, redo_wordcloud=False):
