@@ -3,6 +3,8 @@ Data and software associated with the paper "Super-hydrophobic diving flies (Eph
 
 This readme assumes working knowledge of Ubuntu and python.
 
+This code is not actively maintained. It worked on 2017-10-4 using up-to-date versions of the required software below.
+
 ## What you need to run our analysis
 * Ubuntu (we used Ubuntu 12-16)
 * Python (2.7)
