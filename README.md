@@ -1,5 +1,5 @@
 # Alkali Flies of Mono Lake
-This repository contains the software associated with the paper "Super-hydrophobic diving flies (Ephydra hians) and the hypersaline waters of Mono Lake". Some of the data is included in this repository as well (e.g. GCMS results and SEM images). For force trace data see our [link](https://osf.io/43yhs/ "OSF data repository").
+This repository contains the software associated with the paper "Super-hydrophobic diving flies (Ephydra hians) and the hypersaline waters of Mono Lake". Some of the data is included in this repository as well (e.g. GCMS results and SEM images). For force trace data see our [OSF data repository](https://osf.io/43yhs/ "OSF data repository").
 
 This readme assumes working knowledge of Ubuntu and python. This code is not actively maintained. It worked on 2017-10-4 using up-to-date versions of the required software below.
 
@@ -23,7 +23,7 @@ You may wish to do all of this in a virtual environment.
 
 ## Downloading the data
 
-Data for force traces is available from our [link](https://osf.io/43yhs/ "OSF data repository"). The OSF repo contains a collection of tar.gz compressed folders. Inside each folder are .bag, .hdf5, and .pickle files. Raw data is saved as .bag files, which contain raw force measurements, lvdt, and movie images, all time-synced. See http://wiki.ros.org/ROS/Tutorials/Recording%20and%20playing%20back%20data. The quantitative information from the bag is converted to the hdf5 format. The pickle files are used by the analysis to parse the data (see processing raw data below). 
+Data for force traces is available from our [OSF data repository](https://osf.io/43yhs/ "OSF data repository"). The OSF repo contains a collection of tar.gz compressed folders. Inside each folder are .bag, .hdf5, and .pickle files. Raw data is saved as .bag files, which contain raw force measurements, lvdt, and movie images, all time-synced. See http://wiki.ros.org/ROS/Tutorials/Recording%20and%20playing%20back%20data. The quantitative information from the bag is converted to the hdf5 format. The pickle files are used by the analysis to parse the data (see processing raw data below). 
 
 In order to properly run our code, you will need to download and un-tar all of the data files, and then you will need to follow the instructions for making the data accessible (below).
 
