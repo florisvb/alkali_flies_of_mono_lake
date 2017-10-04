@@ -64,10 +64,10 @@ In each "figure" folder (except figure1) there is a make_figureX.py file. Run th
 
 In our analysis and data we refer to the species by the following alternative names:
 
-Fucelia rufitibia: blue kelp fly
-Coelopa vanduzeei: black kelp fly
-Ephydra hians: alkali fly / mono lake fly
-Ephydra sp: santa ana fly
-Helaeomyia petrolei: oil fly / petroleum fly
-Drosophila melanogaster: melanogaster
-Drosophila virilis: virilis
+* Fucelia rufitibia: blue kelp fly
+* Coelopa vanduzeei: black kelp fly
+* Ephydra hians: alkali fly / mono lake fly
+* Ephydra sp: santa ana fly
+* Helaeomyia petrolei: oil fly / petroleum fly
+* Drosophila melanogaster: melanogaster
+* Drosophila virilis: virilis
