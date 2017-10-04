@@ -1,4 +1,4 @@
-# alkali_flies_of_mono_lake
+# Alkali Flies of Mono Lake
 Data and software associated with the paper "Super-hydrophobic diving flies (Ephydra hians) and the hypersaline waters of Mono Lake"
 
 This readme assumes working knowledge of Ubuntu and python.
