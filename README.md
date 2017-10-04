@@ -3,6 +3,8 @@ This repository contains the software associated with the paper "Super-hydrophob
 
 This readme assumes working knowledge of Ubuntu and python. This code is not actively maintained. It worked on 2017-10-4 using up-to-date versions of the required software below.
 
+Code and data are licensed under a [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"). See subfolders for full text license.
+
 ## What you need to run our analysis
 * Ubuntu (we used Ubuntu 12-16)
 * Python (2.7)
