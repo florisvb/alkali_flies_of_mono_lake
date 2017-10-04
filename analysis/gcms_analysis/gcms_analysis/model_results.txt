@@ -1,0 +1,59 @@
+return mean false:
+solution:  diwater
+     pval:  4.01257045914e-14
+     rsq_adj:  0.564730563917
+     rsq:  0.571038816614
+
+return mean true:
+solution:  diwater
+     pval:  0.00332430179795
+     rsq_adj:  0.815780528723
+     rsq:  0.846483773936
+
+return mean true:
+solution:  carb
+     pval:  0.796526155149
+     rsq_adj:  -0.182507957868
+     rsq:  0.0145767017766
+
+return mean false:
+solution:  carb
+     pval:  0.434932867199
+     rsq_adj:  -0.00558329537761
+     rsq:  0.00899037556989
+
+
+
+
+
+
+
+
+#### ephydra removed
+
+
+return mean false
+solution:  diwater
+     pval:  1.5618806746e-12
+     rsq_adj:  0.643115959815
+     rsq:  0.650399307574
+
+     
+return mean true
+solution:  diwater
+     pval:  0.00822278704624
+     rsq_adj:  0.819571569975
+     rsq:  0.85565725598
+
+return mean true
+solution:  carb
+     pval:  0.00188045447351
+     rsq_adj:  0.912538853661
+     rsq:  0.930031082929
+
+return mean false
+solution:  carb
+     pval:  1.3599101208e-10
+     rsq_adj:  0.571076796639
+     rsq:  0.579830331402
+

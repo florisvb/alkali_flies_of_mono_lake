@@ -1,0 +1,22 @@
+                               Area Percent Report
+
+  Data File : C:\HPCHEM\l\DATA\MIL4299.D                     Vial: 
+  Acq On    : 7 Dec 16 18:45                             Operator: 
+  Sample    : Floris Black kelp 3 x conc                 Inst       GC/MS Ins
+  Misc      : Chung 2                                    Multiplr:  1.00 
+                                                    Sample Amount:  0.00
+  MS Integration Params: EVENTS.E
+
+  Method    : C:\HPCHEM\1\METHODS\40110280.M (Chemstation Integrator)
+  Title
+
+  Signal    : TIC
+
+peak R.T. first max last PK peak              raw       corr.    corr.    % of
+   # min     scan scan scan TY height         area      area     % max.   total
+
+  1  11.579   995 1023  1048 BV   3620707  142291638 142057596  100.00%  60.159%
+  2  15.176  1571 1590  1614 BB2  423945   13040469  12834432    9.03%   5.435%
+  3  29.350  3806 3824  3851 BB7   87052    5157685   4923297    3.47%   2.085%
+  4  32.523  4299 4324  4429 BB9  470058   60850157  60076490   42.29%  25.441%
+  5  35.841  4817 4847  4891 BV9  153830   16786188  16246557   11.44%   6.880%
