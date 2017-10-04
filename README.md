@@ -59,3 +59,15 @@ Install the following analysis packages within this repository (`python setup.py
 ## Running the analysis
 
 In each "figure" folder (except figure1) there is a make_figureX.py file. Run this file (`python ./make_figureX.py`) to rerun the analysis and update the associated svg figure files in that directory. You can use this to trace backwards our analysis, most of which can be found in mono_analysis/plot_raw_traces.py
+
+## Species and colloquial names
+
+In our analysis and data we refer to the species by the following alternative names:
+
+* Fucelia rufitibia: blue kelp fly
+* Coelopa vanduzeei: black kelp fly
+* Ephydra hians: alkali fly / mono lake fly
+* Ephydra sp: santa ana fly
+* Helaeomyia petrolei: oil fly / petroleum fly
+* Drosophila melanogaster: melanogaster
+* Drosophila virilis: virilis
