@@ -907,9 +907,12 @@ def make_frozen_hexane_plot(baselinesubtract=False):
     ax_out.set_xlim(0,5)
     path = mono_paper_locations.data_locations.mono_lake_lab_data_basepath+'/ephydra_2016_fresh_diwater_monowater_hexane'
     r, solution_data = scatter_plot_summary_data_out(path, oddonly=False, evenonly=False, baselinesubtract=baselinesubtract, in_or_out='out', ax=ax_out)
-    figurefirst.mpl_functions.adjust_spines(ax_out, [])
-    #figurefirst.mpl_functions.adjust_spines(ax_out, ['left'], xticks=[0,0.001])
+    #figurefirst.mpl_functions.adjust_spines(ax_out, [])
+    
     ax_out.hlines(0, 0, 5, linewidth=0.5, color='black')
+    figurefirst.mpl_functions.adjust_spines(ax_out, ['left'], yticks=[0,0.001], spine_locations={'left': 5}, linewidth=0.5)
+    ax_out.set_yticklabels([0,1])
+    flytext.set_fontsize(ax_out.figure, 6)
 
     print solution_data.keys()
     if 1:
@@ -1144,7 +1147,7 @@ def make_angle_plot_for_field_flies():
         ax.plot(xs, ys, color='red',zorder=-10)
     ax.set_ylim(-0.0005, 0.00125)
     ax.set_xlim(0,150)
-    
+
     ax.set_yticks([0,0.001])
     figurefirst.mpl_functions.adjust_spines(ax, ['left'], yticks=[0,0.001], spine_locations={'left': 5})
     ax.set_yticklabels(['0', '1'])
