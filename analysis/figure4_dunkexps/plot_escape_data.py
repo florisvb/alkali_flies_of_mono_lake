@@ -133,7 +133,7 @@ def plot_hofmeister_series():
     ax.set_xlim(-0.5,7.5)
     ax.set_ylim(2,14)
     
-    figurefirst.mpl_functions.adjust_spines(ax, ['left', 'bottom'], spine_locations={'left': 5, 'bottom': 5}, yticks=[2,14], xticks=x)
+    figurefirst.mpl_functions.adjust_spines(ax, ['left', 'bottom'], spine_locations={'left': 5, 'bottom': 5}, yticks=[2,14], xticks=x, linewidth=0.5)
 
     ax.set_xticklabels([])
 
@@ -202,7 +202,7 @@ def plot_correlation():
     ax.set_xlim(-100,700)
     ax.set_ylim(0,1)
     
-    figurefirst.mpl_functions.adjust_spines(ax, ['left', 'bottom'], spine_locations={'left': 5, 'bottom': 5}, yticks=[0,1], xticks=[-100,700])
+    figurefirst.mpl_functions.adjust_spines(ax, ['left', 'bottom'], spine_locations={'left': 5, 'bottom': 5}, yticks=[0,1], xticks=[-100,700], linewidth=0.5)
     ax.set_xticklabels([-1,7])
     
 
@@ -308,7 +308,7 @@ def plot_all_results_by_compound(axes=None):
         plot_results_for_compound(data, axes[i], compound)
 
         if compound == 'Mono Water':
-            figurefirst.mpl_functions.adjust_spines(axes[i], ['left'], spine_locations={'left': 5, 'bottom': 5})
+            figurefirst.mpl_functions.adjust_spines(axes[i], ['left'], spine_locations={'left': 5, 'bottom': 5}, linewidth=0.5)
         else:
             figurefirst.mpl_functions.adjust_spines(axes[i], [])
 

@@ -1,1647 +1,477 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:figurefirst="http://flyranch.github.io/figurefirst/"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="1.5in"
-   id="svg2"
-   inkscape:export-filename="/home/caveman/Dropbox (flyranch)/2017_Mono/analysis/figure4_dunkexps/figure4_virilis_escape.png"
-   inkscape:export-xdpi="600"
-   inkscape:export-ydpi="600"
-   inkscape:version="0.92.1 15371"
-   sodipodi:docname="figure4_virilis_escape.svg"
-   version="1.1"
-   viewBox="0 0 328.32001 144"
-   width="3.4200001in">
-  <sodipodi:namedview
-     bordercolor="#666666"
-     borderopacity="1.0"
-     id="base"
-     inkscape:current-layer="layer2"
-     inkscape:cx="160.01309"
-     inkscape:cy="253.51748"
-     inkscape:document-units="in"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:window-height="938"
-     inkscape:window-maximized="0"
-     inkscape:window-width="1487"
-     inkscape:window-x="94"
-     inkscape:window-y="36"
-     inkscape:zoom="1.26"
-     pagecolor="#ffffff"
-     showgrid="false"
-     units="in" />
-  <defs
-     id="defs4">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath8252">
-      <rect
-         height="40.70472"
-         id="rect8254"
-         style="fill:#000000;fill-opacity:0.05627705;stroke:#ff6cff;stroke-width:1.25000012;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         width="207.8539"
-         x="205.68874"
-         y="182.83867" />
+<?xml version="1.0" encoding="utf-8"?><!-- Created with Inkscape (http://www.inkscape.org/) --><svg height="1.5in" id="svg2" inkscape:export-filename="/home/caveman/Dropbox (flyranch)/2017_Mono/analysis/figure4_dunkexps/figure4_virilis_escape.png" inkscape:export-xdpi="600" inkscape:export-ydpi="600" inkscape:version="0.92.1 15371" sodipodi:docname="figure4_virilis_escape.svg" version="1.1" viewBox="0 0 328.32001 144" width="3.4200001in" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:figurefirst="http://flyranch.github.io/figurefirst/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer2" inkscape:cx="160.01309" inkscape:cy="253.51748" inkscape:document-units="in" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="938" inkscape:window-maximized="0" inkscape:window-width="1487" inkscape:window-x="94" inkscape:window-y="36" inkscape:zoom="1.26" pagecolor="#ffffff" showgrid="false" units="in"/>
+  <defs id="defs4">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath8252">
+      <rect height="40.70472" id="rect8254" style="fill:#000000;fill-opacity:0.05627705;stroke:#ff6cff;stroke-width:1.25000012;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="207.8539" x="205.68874" y="182.83867"/>
     </clipPath>
   </defs>
-  <metadata
-     id="metadata7">
+  <metadata id="metadata7">
     <rdf:RDF>
-      <cc:Work
-         rdf:about="">
+      <cc:Work rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="layer1"
-     inkscape:groupmode="layer"
-     inkscape:label="Layer 1"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0,-936.86213)">
-    <g
-       id="g4444"
-       style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-       transform="matrix(0.61670826,0,0,0.76780772,-7.4628889,431.22876)">
-      <rect
-         height="113.5555"
-         id="rect4136"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         width="60.338783"
-         x="132.64197"
-         y="677.01294">
-        <figurefirst:axis
-           figurefirst:name="NaCl" />
+  <g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1" style="display:inline;stroke-linecap:butt;stroke-linejoin:round" transform="translate(0,-936.86213)">
+    <g id="g4444" style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" transform="matrix(0.61670826,0,0,0.76780772,-7.4628889,431.22876)">
+      <rect height="113.5555" id="rect4136" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" width="60.338783" x="132.64197" y="677.01294">
+        <figurefirst:axis figurefirst:name="NaCl"/>
       </rect>
-      <rect
-         height="113.5555"
-         id="rect4136-0"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         width="60.338783"
-         x="61.966892"
-         y="677.01294">
-        <figurefirst:axis
-           figurefirst:name="Mono Water" />
+      <rect height="113.5555" id="rect4136-0" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" width="60.338783" x="61.966892" y="677.01294">
+        <figurefirst:axis figurefirst:name="Mono Water"/>
       </rect>
-      <rect
-         height="113.5555"
-         id="rect4136-8"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         width="60.338783"
-         x="406.66663"
-         y="677.01294">
-        <figurefirst:axis
-           figurefirst:name="Na2CO3" />
+      <rect height="113.5555" id="rect4136-8" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" width="60.338783" x="406.66663" y="677.01294">
+        <figurefirst:axis figurefirst:name="Na2CO3"/>
       </rect>
-      <rect
-         height="113.5555"
-         id="rect4136-5"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         width="60.338783"
-         x="338.82785"
-         y="677.01294">
-        <figurefirst:axis
-           figurefirst:name="NaOH" />
+      <rect height="113.5555" id="rect4136-5" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" width="60.338783" x="338.82785" y="677.01294">
+        <figurefirst:axis figurefirst:name="NaOH"/>
       </rect>
-      <rect
-         height="113.5555"
-         id="rect4136-06"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         width="60.338783"
-         x="201.76416"
-         y="676.36658">
-        <figurefirst:axis
-           figurefirst:name="Na2SO4" />
+      <rect height="113.5555" id="rect4136-06" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" width="60.338783" x="201.76416" y="676.36658">
+        <figurefirst:axis figurefirst:name="Na2SO4"/>
       </rect>
-      <rect
-         height="113.5555"
-         id="rect4136-2"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         width="60.338783"
-         x="269.70569"
-         y="675.50592">
-        <figurefirst:axis
-           figurefirst:name="K3PO4" />
+      <rect height="113.5555" id="rect4136-2" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" width="60.338783" x="269.70569" y="675.50592">
+        <figurefirst:axis figurefirst:name="K3PO4"/>
       </rect>
-      <rect
-         height="113.5555"
-         id="rect4136-62"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         width="60.338783"
-         x="477.34171"
-         y="675.50592">
-        <figurefirst:axis
-           figurefirst:name="K2CO3" />
+      <rect height="113.5555" id="rect4136-62" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.10344831;fill-rule:nonzero;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" width="60.338783" x="477.34171" y="675.50592">
+        <figurefirst:axis figurefirst:name="K2CO3"/>
       </rect>
-      <figurefirst:figure
-         figurefirst:name="virilis_escape" />
+      <figurefirst:figure figurefirst:name="virilis_escape"/>
     </g>
   </g>
-  <g
-     id="layer2"
-     inkscape:groupmode="layer"
-     inkscape:label="extras"
-     style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-     transform="translate(0,-311.99997)">
-    <g
-       id="g6243"
-       style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-       transform="translate(-52.074039,249.11465)">
-      <text
-         id="text9616"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-         transform="rotate(-90)"
-         x="-185.42776"
-         xml:space="preserve"
-         y="160.25496"><tspan
-           id="tspan9618"
-           sodipodi:role="line"
-           style="font-size:7.5px;line-height:1.25;font-family:sans-serif;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           x="-185.42776"
-           y="160.25496">0.5M</tspan></text>
-      <text
-         id="text9616-8-0"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-         transform="rotate(-90)"
-         x="-194.97855"
-         xml:space="preserve"
-         y="147.83905"><tspan
-           id="tspan9618-7-4"
-           sodipodi:role="line"
-           style="font-size:7.5px;line-height:1.25;font-family:sans-serif;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           x="-194.97855"
-           y="147.83905">0.125M</tspan></text>
-      <text
-         id="text9616-8-0-8-4"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-         transform="rotate(-90)"
-         x="-204.52933"
-         xml:space="preserve"
-         y="135.42314"><tspan
-           id="tspan9618-7-4-0-2"
-           sodipodi:role="line"
-           style="font-size:7.5px;line-height:1.25;font-family:sans-serif;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           x="-204.52933"
-           y="135.42314">0.03125M</tspan></text>
+  <g id="layer2" inkscape:groupmode="layer" inkscape:label="extras" style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" transform="translate(0,-311.99997)">
+    <g id="g6243" style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" transform="translate(-52.074039,249.11465)">
+      <text id="text9616" style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" transform="rotate(-90)" x="-185.42776" xml:space="preserve" y="160.25496"><tspan id="tspan9618" sodipodi:role="line" style="font-size:7.5px;line-height:1.25;font-family:sans-serif;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="-185.42776" y="160.25496">0.5M</tspan></text>
+      <text id="text9616-8-0" style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" transform="rotate(-90)" x="-194.97855" xml:space="preserve" y="147.83905"><tspan id="tspan9618-7-4" sodipodi:role="line" style="font-size:7.5px;line-height:1.25;font-family:sans-serif;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="-194.97855" y="147.83905">0.125M</tspan></text>
+      <text id="text9616-8-0-8-4" style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" transform="rotate(-90)" x="-204.52933" xml:space="preserve" y="135.42314"><tspan id="tspan9618-7-4-0-2" sodipodi:role="line" style="font-size:7.5px;line-height:1.25;font-family:sans-serif;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="-204.52933" y="135.42314">0.03125M</tspan></text>
     </g>
-    <g
-       id="g6255"
-       style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-       transform="translate(-162.25308,249.11465)">
-      <text
-         id="text9616-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-         transform="rotate(-90)"
-         x="-188.78958"
-         xml:space="preserve"
-         y="226.98758"><tspan
-           id="tspan9618-6"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           x="-188.78958"
-           y="226.98758">100%</tspan></text>
-      <text
-         id="text9616-8-0-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-         transform="rotate(-90)"
-         x="-183.81578"
-         xml:space="preserve"
-         y="214.57167"><tspan
-           id="tspan9618-7-4-2"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           x="-183.81578"
-           y="214.57167">25%</tspan></text>
-      <text
-         id="text9616-8-0-8-4-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-         transform="rotate(-90)"
-         x="-191.17728"
-         xml:space="preserve"
-         y="202.15575"><tspan
-           id="tspan9618-7-4-0-2-5"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           x="-191.17728"
-           y="202.15575">6.25%</tspan></text>
+    <g id="g6255" style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" transform="translate(-162.25308,249.11465)">
+      <text id="text9616-9" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" transform="rotate(-90)" x="-188.78958" xml:space="preserve" y="226.98758"><tspan id="tspan9618-6" sodipodi:role="line" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="-188.78958" y="226.98758">100%</tspan></text>
+      <text id="text9616-8-0-4" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" transform="rotate(-90)" x="-183.81578" xml:space="preserve" y="214.57167"><tspan id="tspan9618-7-4-2" sodipodi:role="line" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="-183.81578" y="214.57167">25%</tspan></text>
+      <text id="text9616-8-0-8-4-5" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" transform="rotate(-90)" x="-191.17728" xml:space="preserve" y="202.15575"><tspan id="tspan9618-7-4-0-2-5" sodipodi:role="line" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="-191.17728" y="202.15575">6.25%</tspan></text>
     </g>
-    <text
-       id="text9778"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-       x="83.573128"
-       xml:space="preserve"
-       y="320.74524"><tspan
-         id="tspan9780"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         x="83.573128"
-         y="320.74524">NaCl</tspan></text>
-    <text
-       id="text9778-2"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-       x="49.094646"
-       xml:space="preserve"
-       y="320.85852"><tspan
-         id="tspan4787"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         x="49.094646"
-         y="320.85852">MLW</tspan></text>
-    <text
-       id="text9778-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-       x="247.05283"
-       xml:space="preserve"
-       y="320.74524"><tspan
-         id="tspan9780-2"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         x="247.05283"
-         y="320.74524">Na<tspan
-   id="tspan5252"
-   style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">2</tspan>CO<tspan
-   id="tspan5254"
-   style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">3</tspan></tspan></text>
-    <text
-       id="text9778-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-       x="208.49919"
-       xml:space="preserve"
-       y="320.74524"><tspan
-         id="tspan9780-3"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         x="208.49919"
-         y="320.74524">NaOH</tspan></text>
-    <text
-       id="text9778-80"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-       x="120.88338"
-       xml:space="preserve"
-       y="320.74524"><tspan
-         id="tspan9780-4"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         x="120.88338"
-         y="320.74524">Na<tspan
-   id="tspan5240"
-   style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">2</tspan>SO<tspan
-   id="tspan5242"
-   style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">4</tspan></tspan></text>
-    <text
-       id="text9778-25"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-       x="165.72881"
-       xml:space="preserve"
-       y="320.74524"><tspan
-         id="tspan9780-44"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         x="165.72881"
-         y="320.74524">K<tspan
-   id="tspan5246"
-   style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">3</tspan>PO<tspan
-   id="tspan5248"
-   style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">4</tspan></tspan></text>
-    <text
-       id="text9612"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-       transform="rotate(-90)"
-       x="-417.392"
-       xml:space="preserve"
-       y="10.018944"><tspan
-         id="tspan9614"
-         sodipodi:role="line"
-         style="font-size:8px;line-height:1.25;font-family:sans-serif;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         x="-417.392"
-         y="10.018944">Fraction of flies trapped</tspan></text>
-    <text
-       id="text9778-0-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-       x="293.45905"
-       xml:space="preserve"
-       y="320.74524"><tspan
-         id="tspan9780-2-8"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         x="293.45905"
-         y="320.74524">K<tspan
-   id="tspan5258"
-   style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">2</tspan>CO<tspan
-   id="tspan5260"
-   style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">3</tspan></tspan></text>
+    <text id="text9778" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" x="83.573128" xml:space="preserve" y="320.74524"><tspan id="tspan9780" sodipodi:role="line" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="83.573128" y="320.74524">NaCl</tspan></text>
+    <text id="text9778-2" style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" x="49.094646" xml:space="preserve" y="320.85852"><tspan id="tspan4787" sodipodi:role="line" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="49.094646" y="320.85852">MLW</tspan></text>
+    <text id="text9778-0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" x="247.05283" xml:space="preserve" y="320.74524"><tspan id="tspan9780-2" sodipodi:role="line" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="247.05283" y="320.74524">Na<tspan id="tspan5252" style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">2</tspan>CO<tspan id="tspan5254" style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">3</tspan></tspan></text>
+    <text id="text9778-8" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" x="208.49919" xml:space="preserve" y="320.74524"><tspan id="tspan9780-3" sodipodi:role="line" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="208.49919" y="320.74524">NaOH</tspan></text>
+    <text id="text9778-80" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" x="120.88338" xml:space="preserve" y="320.74524"><tspan id="tspan9780-4" sodipodi:role="line" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="120.88338" y="320.74524">Na<tspan id="tspan5240" style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">2</tspan>SO<tspan id="tspan5242" style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">4</tspan></tspan></text>
+    <text id="text9778-25" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" x="165.72881" xml:space="preserve" y="320.74524"><tspan id="tspan9780-44" sodipodi:role="line" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="165.72881" y="320.74524">K<tspan id="tspan5246" style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">3</tspan>PO<tspan id="tspan5248" style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">4</tspan></tspan></text>
+    <text id="text9612" style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" transform="rotate(-90)" x="-417.392" xml:space="preserve" y="10.018944"><tspan id="tspan9614" sodipodi:role="line" style="font-size:8px;line-height:1.25;font-family:sans-serif;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="-417.392" y="10.018944">Fraction of flies trapped</tspan></text>
+    <text id="text9778-0-5" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1" x="293.45905" xml:space="preserve" y="320.74524"><tspan id="tspan9780-2-8" sodipodi:role="line" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" x="293.45905" y="320.74524">K<tspan id="tspan5258" style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">2</tspan>CO<tspan id="tspan5260" style="font-size:64.99999762%;baseline-shift:sub;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">3</tspan></tspan></text>
   </g>
-  <g
-     figurefirst:date-modified="Aug 07 2017 12:04:18 PST"
-     figurefirst:traceback="['  File &quot;./make_figure4.py&quot;, line 6, in &lt;module&gt;\n    plot_escape_data.plot_all_results_by_compound()\n', '  File &quot;/home/caveman/Dropbox (flyranch)/2017_Mono/analysis/figure4_dunkexps/plot_escape_data.py&quot;, line 318, in plot_all_results_by_compound\n    layout.append_figure_to_layer(layout.figures[\'virilis_escape\'], \'virilis_escape\', cleartarget=True)\n', '  File &quot;/home/caveman/Documents/virtualenvs/MONO/local/lib/python2.7/site-packages/figurefirst/svg_to_axes.py&quot;, line 919, in append_figure_to_layer\n    tb = traceback.extract_stack()\n']"
-     id="virilis_escape"
-     inkscape:groupmode="layer"
-     inkscape:label="virilis_escape"
-     style="display:inline;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(1.3346342,0,0,1.3346342,0,-312)">
-    <figurefirst:targetlayer
-       figurefirst:name="virilis_escape" />
-    <defs
-       id="defs5446"
-       style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-      <style
-         type="text/css"
-         id="style5444">
+  <g figurefirst:date-modified="Oct 06 2017 08:32:36 PST" figurefirst:traceback="['  File &quot;./make_figure4.py&quot;, line 6, in &lt;module&gt;\n    plot_escape_data.plot_all_results_by_compound()\n', '  File &quot;/home/caveman/Dropbox (flyranch)/2017_Mono/analysis/figure4_dunkexps/plot_escape_data.py&quot;, line 318, in plot_all_results_by_compound\n    layout.append_figure_to_layer(layout.figures[\'virilis_escape\'], \'virilis_escape\', cleartarget=True)\n', '  File &quot;/home/caveman/Documents/virtualenvs/MONO/local/lib/python2.7/site-packages/figurefirst/svg_to_axes.py&quot;, line 919, in append_figure_to_layer\n    tb = traceback.extract_stack()\n']" id="virilis_escape" inkscape:groupmode="layer" inkscape:label="virilis_escape" style="display:inline;stroke-linecap:butt;stroke-linejoin:round" transform="scale(1.33463418699,1.33463418699)"><figurefirst:targetlayer figurefirst:name="virilis_escape"/>
+ <defs>
+  <style type="text/css">
 *{stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;}
   </style>
-    </defs>
-    <g
-       id="figure_1"
-       style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-       transform="translate(0,233.39134)">
-      <g
-         id="patch_1"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <path
-           d="M 0,342 H 246.24001 V 0 H 0 Z"
-           style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           id="path5448"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="axes_1"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <g
-           id="patch_2"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 23.064454,76.409341 H 50.973023 V 11.017749 H 23.064454 Z"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5451"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_1"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p22f18b0cbe)"
-             d="M 25.855311,59.432678 V 75.15181 h 3.721142 v -15.719132 0 z"
-             style="fill:#0000ff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5454"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_2"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p22f18b0cbe)"
-             d="m 30.506739,75.15181 v 0 h 3.721143 v 0 0 z"
-             style="fill:#0000ff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5457"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_3"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p22f18b0cbe)"
-             d="m 35.158167,34.282065 v 25.150613 h 3.721143 v -25.150613 0 z"
-             style="fill:#0000ff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5460"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_4"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p22f18b0cbe)"
-             d="m 39.809596,12.27528 v 0 h 3.721142 v 0 0 z"
-             style="fill:#0000ff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5463"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_5"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p22f18b0cbe)"
-             d="m 44.461024,12.27528 v 9.431479 h 3.721142 v -9.431479 0 z"
-             style="fill:#0000ff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5466"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_1"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p22f18b0cbe)"
-             d="m 25.855311,68.864157 h 3.721142"
-             style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5469"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_2"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p22f18b0cbe)"
-             d="m 30.506739,75.15181 h 3.721143"
-             style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5472"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_3"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p22f18b0cbe)"
-             d="M 35.158167,46.857372 H 38.87931"
-             style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5475"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_4"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p22f18b0cbe)"
-             d="m 39.809596,12.27528 h 3.721142"
-             style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5478"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_5"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p22f18b0cbe)"
-             d="m 44.461024,15.419106 h 3.721142"
-             style="fill:none;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5481"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_3"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 23.064454,11.017749 H 50.973023"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5484"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_4"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 50.973023,75.15181 V 12.27528"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5487"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_5"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 23.064454,76.409341 H 50.973023"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5490"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_6"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 18.064454,75.15181 V 12.27528"
-             style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:100000"
-             id="path5493"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="matplotlib.axis_1"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-        <g
-           id="matplotlib.axis_2"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <g
-             id="ytick_1"
-             style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-            <g
-               id="line2d_1"
-               style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-              <defs
-                 id="defs5498">
-                <path
-                   d="M 0,0 H 4"
-                   id="m6c8a8d5706"
-                   style="stroke:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-                   inkscape:connector-curvature="0" />
-              </defs>
-              <g
-                 id="g5502"
-                 style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-                <use
-                   style="stroke:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-                   x="18.064453"
-                   xlink:href="#m6c8a8d5706"
-                   y="75.15181"
-                   id="use5500"
-                   width="100%"
-                   height="100%" />
-              </g>
-            </g>
-            <g
-               id="text_1"
-               style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-              <!-- 0 -->
-              <defs
-                 id="defs5506">
-                <path
-                   d="m 31.78125,66.40625 q -7.609375,0 -11.453125,-7.5 Q 16.5,51.421875 16.5,36.375 q 0,-14.984375 3.828125,-22.484375 3.84375,-7.5 11.453125,-7.5 7.671875,0 11.5,7.5 3.84375,7.5 3.84375,22.484375 0,15.046875 -3.84375,22.53125 -3.828125,7.5 -11.5,7.5 m 0,7.8125 q 12.265625,0 18.734375,-9.703125 6.46875,-9.6875 6.46875,-28.140625 0,-18.40625 -6.46875,-28.109375 -6.46875,-9.6875 -18.734375,-9.6875 -12.25,0 -18.71875,9.6875 Q 6.59375,17.96875 6.59375,36.375 q 0,18.453125 6.46875,28.140625 6.46875,9.703125 18.71875,9.703125"
-                   id="BitstreamVeraSans-Roman-30"
-                   inkscape:connector-curvature="0"
-                   style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-              </defs>
-              <g
-                 transform="matrix(0.06,0,0,-0.06,10.246954,76.807435)"
-                 id="g5510"
-                 style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-                <use
-                   xlink:href="#BitstreamVeraSans-Roman-30"
-                   id="use5508"
-                   style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-                   x="0"
-                   y="0"
-                   width="100%"
-                   height="100%" />
-              </g>
-            </g>
-          </g>
-          <g
-             id="ytick_2"
-             style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-            <g
-               id="line2d_2"
-               style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-              <g
-                 id="g5516"
-                 style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-                <use
-                   style="stroke:#000000;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-                   x="18.064453"
-                   xlink:href="#m6c8a8d5706"
-                   y="12.27528"
-                   id="use5514"
-                   width="100%"
-                   height="100%" />
-              </g>
-            </g>
-            <g
-               id="text_2"
-               style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-              <!-- 1 -->
-              <defs
-                 id="defs5520">
-                <path
-                   d="m 12.40625,8.296875 h 16.109375 v 55.625 L 10.984375,60.40625 v 8.984375 l 17.4375,3.515625 H 38.28125 V 8.296875 H 54.390625 V 0 H 12.40625 Z"
-                   id="BitstreamVeraSans-Roman-31"
-                   inkscape:connector-curvature="0"
-                   style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-              </defs>
-              <g
-                 transform="matrix(0.06,0,0,-0.06,10.246954,13.930905)"
-                 id="g5524"
-                 style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-                <use
-                   xlink:href="#BitstreamVeraSans-Roman-31"
-                   id="use5522"
-                   style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-                   x="0"
-                   y="0"
-                   width="100%"
-                   height="100%" />
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <g
-         id="axes_2"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <g
-           id="patch_7"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="m 215.18826,75.541515 h 27.90857 V 10.149923 h -27.90857 z"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5530"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_6"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p708f80c9c8)"
-             d="m 217.97912,64.852505 v 9.431479 h 3.72114 v -9.431479 0 z"
-             style="fill:#ff00ff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5533"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_7"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p708f80c9c8)"
-             d="m 222.63055,64.852505 v 9.431479 h 3.72114 v -9.431479 0 z"
-             style="fill:#ff00ff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5536"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_8"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p708f80c9c8)"
-             d="m 227.28198,52.277198 v 22.006786 h 3.72114 v -22.006786 0 z"
-             style="fill:#ff00ff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5539"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_9"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p708f80c9c8)"
-             d="m 231.93341,58.564852 v 15.719132 h 3.72114 v -15.719132 0 z"
-             style="fill:#ff00ff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5542"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_10"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p708f80c9c8)"
-             d="m 236.58483,42.845719 v 25.150612 h 3.72115 v -25.150612 0 z"
-             style="fill:#ff00ff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5545"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_6"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p708f80c9c8)"
-             d="m 217.97912,71.140158 h 3.72114"
-             style="fill:none;stroke:#ff00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5548"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_7"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p708f80c9c8)"
-             d="m 222.63055,71.140158 h 3.72114"
-             style="fill:none;stroke:#ff00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5551"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_8"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p708f80c9c8)"
-             d="m 227.28198,64.852505 h 3.72114"
-             style="fill:none;stroke:#ff00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5554"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_9"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p708f80c9c8)"
-             d="m 231.93341,67.996331 h 3.72114"
-             style="fill:none;stroke:#ff00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5557"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_10"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p708f80c9c8)"
-             d="m 236.58483,55.421025 h 3.72115"
-             style="fill:none;stroke:#ff00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5560"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_8"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="m 215.18826,10.149923 h 27.90857"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5563"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_9"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 243.09683,74.283984 V 11.407453"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5566"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_10"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="m 215.18826,75.541515 h 27.90857"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5569"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_11"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 215.18826,74.283984 V 11.407453"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5572"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="matplotlib.axis_3"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-        <g
-           id="matplotlib.axis_4"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-      </g>
-      <g
-         id="axes_3"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <g
-           id="patch_12"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 119.15013,75.541515 H 147.0587 V 10.149923 h -27.90857 z"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5578"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_11"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p1230270faf)"
-             d="m 121.94098,64.852505 v 9.431479 h 3.72115 v -9.431479 0 z"
-             style="fill:#00ffff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5581"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_12"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p1230270faf)"
-             d="m 126.59241,55.421025 v 18.862959 h 3.72115 v -18.862959 0 z"
-             style="fill:#00ffff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5584"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_13"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p1230270faf)"
-             d="m 131.24384,55.421025 v 18.862959 h 3.72114 v -18.862959 0 z"
-             style="fill:#00ffff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5587"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_14"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p1230270faf)"
-             d="m 135.89527,39.701892 v 25.150613 h 3.72114 v -25.150613 0 z"
-             style="fill:#00ffff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5590"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_15"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p1230270faf)"
-             d="m 140.5467,11.407453 v 0 h 3.72114 v 0 0 z"
-             style="fill:#00ffff;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5593"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_11"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p1230270faf)"
-             d="m 121.94098,71.140158 h 3.72115"
-             style="fill:none;stroke:#00ffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5596"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_12"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p1230270faf)"
-             d="m 126.59241,64.852505 h 3.72115"
-             style="fill:none;stroke:#00ffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5599"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_13"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p1230270faf)"
-             d="m 131.24384,64.852505 h 3.72114"
-             style="fill:none;stroke:#00ffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5602"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_14"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p1230270faf)"
-             d="m 135.89527,52.277198 h 3.72114"
-             style="fill:none;stroke:#00ffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5605"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_15"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p1230270faf)"
-             d="m 140.5467,11.407453 h 3.72114"
-             style="fill:none;stroke:#00ffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5608"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_13"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 119.15013,10.149923 H 147.0587"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5611"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_14"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 147.0587,74.283984 V 11.407453"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5614"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_15"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 119.15013,75.541515 H 147.0587"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5617"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_16"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 119.15013,74.283984 V 11.407453"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5620"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="matplotlib.axis_5"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-        <g
-           id="matplotlib.axis_6"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-      </g>
-      <g
-         id="axes_4"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <g
-           id="patch_17"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 87.725051,76.037131 H 115.63362 V 10.645539 H 87.725051 Z"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5626"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_16"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#pfbe33a6772)"
-             d="M 90.515908,65.348121 V 74.7796 h 3.721143 v -9.431479 0 z"
-             style="fill:#ffa500;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5629"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_17"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#pfbe33a6772)"
-             d="M 95.167336,65.348121 V 74.7796 h 3.721143 v -9.431479 0 z"
-             style="fill:#ffa500;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5632"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_18"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#pfbe33a6772)"
-             d="m 99.818765,74.7796 v 0 h 3.721145 v 0 0 z"
-             style="fill:#ffa500;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5635"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_19"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#pfbe33a6772)"
-             d="m 104.47019,74.7796 v 0 h 3.72114 v 0 0 z"
-             style="fill:#ffa500;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5638"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_20"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#pfbe33a6772)"
-             d="m 109.12162,11.903069 v 0 h 3.72114 v 0 0 z"
-             style="fill:#ffa500;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5641"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_16"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#pfbe33a6772)"
-             d="m 90.515908,71.635774 h 3.721143"
-             style="fill:none;stroke:#ffa500;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5644"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_17"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#pfbe33a6772)"
-             d="m 95.167336,71.635774 h 3.721143"
-             style="fill:none;stroke:#ffa500;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5647"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_18"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#pfbe33a6772)"
-             d="m 99.818765,74.7796 h 3.721145"
-             style="fill:none;stroke:#ffa500;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5650"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_19"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#pfbe33a6772)"
-             d="m 104.47019,74.7796 h 3.72114"
-             style="fill:none;stroke:#ffa500;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5653"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_20"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#pfbe33a6772)"
-             d="m 109.12162,11.903069 h 3.72114"
-             style="fill:none;stroke:#ffa500;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5656"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_18"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 87.725051,10.645539 H 115.63362"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5659"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_19"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 115.63362,74.7796 V 11.903069"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5662"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_20"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 87.725051,76.037131 H 115.63362"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5665"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_21"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 87.725051,74.7796 V 11.903069"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5668"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="matplotlib.axis_7"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-        <g
-           id="matplotlib.axis_8"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-      </g>
-      <g
-         id="axes_5"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <g
-           id="patch_22"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 182.49884,76.409341 H 210.4074 V 11.017749 h -27.90856 z"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5674"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_21"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p6e590e228f)"
-             d="M 185.28969,64.148418 V 75.15181 h 3.72114 v -11.003392 0 z"
-             style="fill:#ff0000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5677"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_22"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p6e590e228f)"
-             d="m 189.94112,34.282065 v 18.86296 h 3.72114 v -18.86296 0 z"
-             style="fill:#ff0000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5680"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_23"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p6e590e228f)"
-             d="m 194.59255,23.802644 v 13.623248 h 3.72114 v -13.623248 0 z"
-             style="fill:#ff0000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5683"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_24"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p6e590e228f)"
-             d="m 199.24398,16.991019 v 15.719133 h 3.72114 v -15.719133 0 z"
-             style="fill:#ff0000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5686"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_25"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p6e590e228f)"
-             d="m 203.8954,12.27528 v 0 h 3.72115 v 0 0 z"
-             style="fill:#ff0000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5689"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_21"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p6e590e228f)"
-             d="m 185.28969,70.436071 h 3.72114"
-             style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5692"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_22"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p6e590e228f)"
-             d="m 189.94112,43.713545 h 3.72114"
-             style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5695"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_23"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p6e590e228f)"
-             d="m 194.59255,30.090297 h 3.72114"
-             style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5698"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_24"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p6e590e228f)"
-             d="m 199.24398,24.850586 h 3.72114"
-             style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5701"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_25"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p6e590e228f)"
-             d="m 203.8954,12.27528 h 3.72115"
-             style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5704"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_23"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 182.49884,11.017749 H 210.4074"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5707"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_24"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 210.4074,75.15181 V 12.27528"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5710"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_25"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 182.49884,76.409341 H 210.4074"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5713"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_26"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 182.49884,75.15181 V 12.27528"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5716"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="matplotlib.axis_9"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-        <g
-           id="matplotlib.axis_10"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-      </g>
-      <g
-         id="axes_6"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <g
-           id="patch_27"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="m 55.753882,76.409341 h 27.90857 V 11.017749 h -27.90857 z"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5722"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_26"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p7ebf2e4cc9)"
-             d="M 58.544739,59.432678 V 75.15181 h 3.721143 v -15.719132 0 z"
-             style="fill:#008000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5725"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_27"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p7ebf2e4cc9)"
-             d="m 63.196167,75.15181 v 0 h 3.721143 v 0 0 z"
-             style="fill:#008000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5728"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_28"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p7ebf2e4cc9)"
-             d="M 67.847596,56.288851 V 75.15181 h 3.721142 v -18.862959 0 z"
-             style="fill:#008000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5731"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_29"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p7ebf2e4cc9)"
-             d="M 72.499024,59.432678 V 75.15181 h 3.721142 v -15.719132 0 z"
-             style="fill:#008000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5734"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_30"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p7ebf2e4cc9)"
-             d="M 77.150452,53.145025 V 75.15181 h 3.721143 v -22.006785 0 z"
-             style="fill:#008000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5737"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_26"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p7ebf2e4cc9)"
-             d="m 58.544739,68.864157 h 3.721143"
-             style="fill:none;stroke:#008000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5740"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_27"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p7ebf2e4cc9)"
-             d="M 63.196167,75.15181 H 66.91731"
-             style="fill:none;stroke:#008000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5743"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_28"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p7ebf2e4cc9)"
-             d="m 67.847596,65.720331 h 3.721142"
-             style="fill:none;stroke:#008000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5746"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_29"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p7ebf2e4cc9)"
-             d="m 72.499024,68.864157 h 3.721142"
-             style="fill:none;stroke:#008000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5749"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_30"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p7ebf2e4cc9)"
-             d="m 77.150452,65.720331 h 3.721143"
-             style="fill:none;stroke:#008000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5752"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_28"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="m 55.753882,11.017749 h 27.90857"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5755"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_29"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 83.662452,75.15181 V 12.27528"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5758"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_30"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="m 55.753882,76.409341 h 27.90857"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5761"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_31"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 55.753882,75.15181 V 12.27528"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5764"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="matplotlib.axis_11"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-        <g
-           id="matplotlib.axis_12"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-      </g>
-      <g
-         id="axes_7"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <g
-           id="patch_32"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="m 151.12128,76.409341 h 27.90857 V 11.017749 h -27.90857 z"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5770"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_31"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p28f0fde758)"
-             d="m 153.91214,65.720331 v 9.431479 h 3.72114 v -9.431479 0 z"
-             style="fill:#000000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5773"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_32"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p28f0fde758)"
-             d="M 158.56357,56.288851 V 75.15181 h 3.72114 v -18.862959 0 z"
-             style="fill:#000000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5776"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_33"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p28f0fde758)"
-             d="m 163.215,75.15181 v 0 h 3.72114 v 0 0 z"
-             style="fill:#000000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5779"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_34"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p28f0fde758)"
-             d="m 167.86642,46.857372 v 25.150612 h 3.72115 v -25.150612 0 z"
-             style="fill:#000000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5782"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="PolyCollection_35"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p28f0fde758)"
-             d="m 172.51785,21.706759 v 25.150613 h 3.72115 v -25.150613 0 z"
-             style="fill:#000000;fill-opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5785"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_31"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p28f0fde758)"
-             d="m 153.91214,72.007984 h 3.72114"
-             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5788"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_32"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p28f0fde758)"
-             d="m 158.56357,65.720331 h 3.72114"
-             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5791"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_33"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p28f0fde758)"
-             d="m 163.215,75.15181 h 3.72114"
-             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5794"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_34"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p28f0fde758)"
-             d="m 167.86642,59.432678 h 3.72115"
-             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5797"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="LineCollection_35"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             clip-path="url(#p28f0fde758)"
-             d="M 172.51785,34.282065 H 176.239"
-             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5800"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_33"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="m 151.12128,11.017749 h 27.90857"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5803"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_34"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 179.02985,75.15181 V 12.27528"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5806"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_35"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="m 151.12128,76.409341 h 27.90857"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5809"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="patch_36"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-          <path
-             d="M 151.12128,75.15181 V 12.27528"
-             style="fill:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-             id="path5812"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="matplotlib.axis_13"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-        <g
-           id="matplotlib.axis_14"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-      </g>
-    </g>
-    <defs
-       id="defs5840">
-      <clipPath
-         id="p22f18b0cbe"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <rect
-           height="65.391594"
-           width="27.908569"
-           x="23.064453"
-           y="11.017749"
-           id="rect5819"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-      </clipPath>
-      <clipPath
-         id="p6e590e228f"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <rect
-           height="65.391594"
-           width="27.908569"
-           x="182.49884"
-           y="11.017749"
-           id="rect5822"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-      </clipPath>
-      <clipPath
-         id="p708f80c9c8"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <rect
-           height="65.391594"
-           width="27.908569"
-           x="215.18826"
-           y="10.149922"
-           id="rect5825"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-      </clipPath>
-      <clipPath
-         id="p7ebf2e4cc9"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <rect
-           height="65.391594"
-           width="27.908569"
-           x="55.753883"
-           y="11.017749"
-           id="rect5828"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-      </clipPath>
-      <clipPath
-         id="p1230270faf"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <rect
-           height="65.391594"
-           width="27.908569"
-           x="119.15013"
-           y="10.149922"
-           id="rect5831"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-      </clipPath>
-      <clipPath
-         id="p28f0fde758"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <rect
-           height="65.391594"
-           width="27.908569"
-           x="151.12128"
-           y="11.017749"
-           id="rect5834"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-      </clipPath>
-      <clipPath
-         id="pfbe33a6772"
-         style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">
-        <rect
-           height="65.391594"
-           width="27.908569"
-           x="87.725052"
-           y="10.645538"
-           id="rect5837"
-           style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" />
-      </clipPath>
-    </defs>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 108  L 246.240007 108  L 246.240007 0  L 0 0  L 0 108  z " style="fill:none;"/>
   </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 23.064454 76.028386  L 50.973023 76.028386  L 50.973023 10.636794  L 23.064454 10.636794  L 23.064454 76.028386  z " style="fill:none;"/>
+   </g>
+   <g id="PolyCollection_1">
+    <path clip-path="url(#pa383305fb5)" d="M 25.855311 59.051723  L 25.855311 74.770855  L 29.576453 74.770855  L 29.576453 59.051723  L 29.576453 59.051723  L 25.855311 59.051723  z " style="fill:#0000ff;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_2">
+    <path clip-path="url(#pa383305fb5)" d="M 30.506739 74.770855  L 30.506739 74.770855  L 34.227882 74.770855  L 34.227882 74.770855  L 34.227882 74.770855  L 30.506739 74.770855  z " style="fill:#0000ff;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_3">
+    <path clip-path="url(#pa383305fb5)" d="M 35.158167 33.90111  L 35.158167 59.051723  L 38.87931 59.051723  L 38.87931 33.90111  L 38.87931 33.90111  L 35.158167 33.90111  z " style="fill:#0000ff;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_4">
+    <path clip-path="url(#pa383305fb5)" d="M 39.809596 11.894325  L 39.809596 11.894325  L 43.530738 11.894325  L 43.530738 11.894325  L 43.530738 11.894325  L 39.809596 11.894325  z " style="fill:#0000ff;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_5">
+    <path clip-path="url(#pa383305fb5)" d="M 44.461024 11.894325  L 44.461024 21.325804  L 48.182166 21.325804  L 48.182166 11.894325  L 48.182166 11.894325  L 44.461024 11.894325  z " style="fill:#0000ff;fill-opacity:0.3;"/>
+   </g>
+   <g id="LineCollection_1">
+    <path clip-path="url(#pa383305fb5)" d="M 25.855311 68.483202  L 29.576453 68.483202  " style="fill:none;stroke:#0000ff;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_2">
+    <path clip-path="url(#pa383305fb5)" d="M 30.506739 74.770855  L 34.227882 74.770855  " style="fill:none;stroke:#0000ff;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_3">
+    <path clip-path="url(#pa383305fb5)" d="M 35.158167 46.476417  L 38.87931 46.476417  " style="fill:none;stroke:#0000ff;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_4">
+    <path clip-path="url(#pa383305fb5)" d="M 39.809596 11.894325  L 43.530738 11.894325  " style="fill:none;stroke:#0000ff;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_5">
+    <path clip-path="url(#pa383305fb5)" d="M 44.461024 15.038151  L 48.182166 15.038151  " style="fill:none;stroke:#0000ff;stroke-width:3.0;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 23.064454 10.636794  L 50.973023 10.636794  " style="fill:none;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 50.973023 74.770855  L 50.973023 11.894325  " style="fill:none;"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 23.064454 76.028386  L 50.973023 76.028386  " style="fill:none;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 18.064454 74.770855  L 18.064454 11.894325  " style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.5;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0  L 4 0  " id="m1f45e7f1e1" style="stroke:#000000;stroke-width:0.5;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.5;" x="18.0644539041" xlink:href="#m1f45e7f1e1" y="74.7708554468"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 0 -->
+      <defs>
+       <path d="M 31.78125 66.40625  Q 24.171875 66.40625 20.328125 58.90625  Q 16.5 51.421875 16.5 36.375  Q 16.5 21.390625 20.328125 13.890625  Q 24.171875 6.390625 31.78125 6.390625  Q 39.453125 6.390625 43.28125 13.890625  Q 47.125 21.390625 47.125 36.375  Q 47.125 51.421875 43.28125 58.90625  Q 39.453125 66.40625 31.78125 66.40625  M 31.78125 74.21875  Q 44.046875 74.21875 50.515625 64.515625  Q 56.984375 54.828125 56.984375 36.375  Q 56.984375 17.96875 50.515625 8.265625  Q 44.046875 -1.421875 31.78125 -1.421875  Q 19.53125 -1.421875 13.0625 8.265625  Q 6.59375 17.96875 6.59375 36.375  Q 6.59375 54.828125 13.0625 64.515625  Q 19.53125 74.21875 31.78125 74.21875  " id="BitstreamVeraSans-Roman-30"/>
+      </defs>
+      <g transform="translate(10.2469539041 76.4264804468)scale(0.06 -0.06)">
+       <use xlink:href="#BitstreamVeraSans-Roman-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.5;" x="18.0644539041" xlink:href="#m1f45e7f1e1" y="11.8943245224"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 1 -->
+      <defs>
+       <path d="M 12.40625 8.296875  L 28.515625 8.296875  L 28.515625 63.921875  L 10.984375 60.40625  L 10.984375 69.390625  L 28.421875 72.90625  L 38.28125 72.90625  L 38.28125 8.296875  L 54.390625 8.296875  L 54.390625 0  L 12.40625 0  z " id="BitstreamVeraSans-Roman-31"/>
+      </defs>
+      <g transform="translate(10.2469539041 13.5499495224)scale(0.06 -0.06)">
+       <use xlink:href="#BitstreamVeraSans-Roman-31"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 215.188265 75.16056  L 243.096834 75.16056  L 243.096834 9.768968  L 215.188265 9.768968  L 215.188265 75.16056  z " style="fill:none;"/>
+   </g>
+   <g id="PolyCollection_6">
+    <path clip-path="url(#p8845c48bae)" d="M 217.979122 64.47155  L 217.979122 73.903029  L 221.700264 73.903029  L 221.700264 64.47155  L 221.700264 64.47155  L 217.979122 64.47155  z " style="fill:#ff00ff;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_7">
+    <path clip-path="url(#p8845c48bae)" d="M 222.63055 64.47155  L 222.63055 73.903029  L 226.351692 73.903029  L 226.351692 64.47155  L 226.351692 64.47155  L 222.63055 64.47155  z " style="fill:#ff00ff;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_8">
+    <path clip-path="url(#p8845c48bae)" d="M 227.281978 55.04007  L 227.281978 73.903029  L 231.003121 73.903029  L 231.003121 55.04007  L 231.003121 55.04007  L 227.281978 55.04007  z " style="fill:#ff00ff;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_9">
+    <path clip-path="url(#p8845c48bae)" d="M 231.933406 58.183897  L 231.933406 73.903029  L 235.654549 73.903029  L 235.654549 58.183897  L 235.654549 58.183897  L 231.933406 58.183897  z " style="fill:#ff00ff;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_10">
+    <path clip-path="url(#p8845c48bae)" d="M 236.584834 42.464764  L 236.584834 67.615376  L 240.305977 67.615376  L 240.305977 42.464764  L 240.305977 42.464764  L 236.584834 42.464764  z " style="fill:#ff00ff;fill-opacity:0.3;"/>
+   </g>
+   <g id="LineCollection_6">
+    <path clip-path="url(#p8845c48bae)" d="M 217.979122 70.759203  L 221.700264 70.759203  " style="fill:none;stroke:#ff00ff;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_7">
+    <path clip-path="url(#p8845c48bae)" d="M 222.63055 70.759203  L 226.351692 70.759203  " style="fill:none;stroke:#ff00ff;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_8">
+    <path clip-path="url(#p8845c48bae)" d="M 227.281978 64.47155  L 231.003121 64.47155  " style="fill:none;stroke:#ff00ff;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_9">
+    <path clip-path="url(#p8845c48bae)" d="M 231.933406 67.615376  L 235.654549 67.615376  " style="fill:none;stroke:#ff00ff;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_10">
+    <path clip-path="url(#p8845c48bae)" d="M 236.584834 55.04007  L 240.305977 55.04007  " style="fill:none;stroke:#ff00ff;stroke-width:3.0;"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 215.188265 9.768968  L 243.096834 9.768968  " style="fill:none;"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 243.096834 73.903029  L 243.096834 11.026498  " style="fill:none;"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 215.188265 75.16056  L 243.096834 75.16056  " style="fill:none;"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 215.188265 73.903029  L 215.188265 11.026498  " style="fill:none;"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4"/>
+  </g>
+  <g id="axes_3">
+   <g id="patch_12">
+    <path d="M 119.150128 75.16056  L 147.058698 75.16056  L 147.058698 9.768968  L 119.150128 9.768968  L 119.150128 75.16056  z " style="fill:none;"/>
+   </g>
+   <g id="PolyCollection_11">
+    <path clip-path="url(#pb5babb6af1)" d="M 121.940985 64.47155  L 121.940985 73.903029  L 125.662128 73.903029  L 125.662128 64.47155  L 125.662128 64.47155  L 121.940985 64.47155  z " style="fill:#00ffff;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_12">
+    <path clip-path="url(#pb5babb6af1)" d="M 126.592413 51.896243  L 126.592413 73.903029  L 130.313556 73.903029  L 130.313556 51.896243  L 130.313556 51.896243  L 126.592413 51.896243  z " style="fill:#00ffff;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_13">
+    <path clip-path="url(#pb5babb6af1)" d="M 131.243842 55.04007  L 131.243842 73.903029  L 134.964984 73.903029  L 134.964984 55.04007  L 134.964984 55.04007  L 131.243842 55.04007  z " style="fill:#00ffff;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_14">
+    <path clip-path="url(#pb5babb6af1)" d="M 135.89527 39.320937  L 135.89527 64.47155  L 139.616412 64.47155  L 139.616412 39.320937  L 139.616412 39.320937  L 135.89527 39.320937  z " style="fill:#00ffff;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_15">
+    <path clip-path="url(#pb5babb6af1)" d="M 140.546698 11.026498  L 140.546698 11.026498  L 144.267841 11.026498  L 144.267841 11.026498  L 144.267841 11.026498  L 140.546698 11.026498  z " style="fill:#00ffff;fill-opacity:0.3;"/>
+   </g>
+   <g id="LineCollection_11">
+    <path clip-path="url(#pb5babb6af1)" d="M 121.940985 70.759203  L 125.662128 70.759203  " style="fill:none;stroke:#00ffff;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_12">
+    <path clip-path="url(#pb5babb6af1)" d="M 126.592413 64.47155  L 130.313556 64.47155  " style="fill:none;stroke:#00ffff;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_13">
+    <path clip-path="url(#pb5babb6af1)" d="M 131.243842 64.47155  L 134.964984 64.47155  " style="fill:none;stroke:#00ffff;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_14">
+    <path clip-path="url(#pb5babb6af1)" d="M 135.89527 51.896243  L 139.616412 51.896243  " style="fill:none;stroke:#00ffff;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_15">
+    <path clip-path="url(#pb5babb6af1)" d="M 140.546698 11.026498  L 144.267841 11.026498  " style="fill:none;stroke:#00ffff;stroke-width:3.0;"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 119.150128 9.768968  L 147.058698 9.768968  " style="fill:none;"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 147.058698 73.903029  L 147.058698 11.026498  " style="fill:none;"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 119.150128 75.16056  L 147.058698 75.16056  " style="fill:none;"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 119.150128 73.903029  L 119.150128 11.026498  " style="fill:none;"/>
+   </g>
+   <g id="matplotlib.axis_5"/>
+   <g id="matplotlib.axis_6"/>
+  </g>
+  <g id="axes_4">
+   <g id="patch_17">
+    <path d="M 87.725051 75.656176  L 115.633621 75.656176  L 115.633621 10.264584  L 87.725051 10.264584  L 87.725051 75.656176  z " style="fill:none;"/>
+   </g>
+   <g id="PolyCollection_16">
+    <path clip-path="url(#pde013550a1)" d="M 90.515908 64.967166  L 90.515908 74.398645  L 94.237051 74.398645  L 94.237051 64.967166  L 94.237051 64.967166  L 90.515908 64.967166  z " style="fill:#ffa500;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_17">
+    <path clip-path="url(#pde013550a1)" d="M 95.167336 64.967166  L 95.167336 74.398645  L 98.888479 74.398645  L 98.888479 64.967166  L 98.888479 64.967166  L 95.167336 64.967166  z " style="fill:#ffa500;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_18">
+    <path clip-path="url(#pde013550a1)" d="M 99.818765 74.398645  L 99.818765 74.398645  L 103.539907 74.398645  L 103.539907 74.398645  L 103.539907 74.398645  L 99.818765 74.398645  z " style="fill:#ffa500;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_19">
+    <path clip-path="url(#pde013550a1)" d="M 104.470193 74.398645  L 104.470193 74.398645  L 108.191335 74.398645  L 108.191335 74.398645  L 108.191335 74.398645  L 104.470193 74.398645  z " style="fill:#ffa500;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_20">
+    <path clip-path="url(#pde013550a1)" d="M 109.121621 11.522114  L 109.121621 11.522114  L 112.842764 11.522114  L 112.842764 11.522114  L 112.842764 11.522114  L 109.121621 11.522114  z " style="fill:#ffa500;fill-opacity:0.3;"/>
+   </g>
+   <g id="LineCollection_16">
+    <path clip-path="url(#pde013550a1)" d="M 90.515908 71.254819  L 94.237051 71.254819  " style="fill:none;stroke:#ffa500;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_17">
+    <path clip-path="url(#pde013550a1)" d="M 95.167336 71.254819  L 98.888479 71.254819  " style="fill:none;stroke:#ffa500;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_18">
+    <path clip-path="url(#pde013550a1)" d="M 99.818765 74.398645  L 103.539907 74.398645  " style="fill:none;stroke:#ffa500;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_19">
+    <path clip-path="url(#pde013550a1)" d="M 104.470193 74.398645  L 108.191335 74.398645  " style="fill:none;stroke:#ffa500;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_20">
+    <path clip-path="url(#pde013550a1)" d="M 109.121621 11.522114  L 112.842764 11.522114  " style="fill:none;stroke:#ffa500;stroke-width:3.0;"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 87.725051 10.264584  L 115.633621 10.264584  " style="fill:none;"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 115.633621 74.398645  L 115.633621 11.522114  " style="fill:none;"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 87.725051 75.656176  L 115.633621 75.656176  " style="fill:none;"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 87.725051 74.398645  L 87.725051 11.522114  " style="fill:none;"/>
+   </g>
+   <g id="matplotlib.axis_7"/>
+   <g id="matplotlib.axis_8"/>
+  </g>
+  <g id="axes_5">
+   <g id="patch_22">
+    <path d="M 182.498835 76.028386  L 210.407405 76.028386  L 210.407405 10.636794  L 182.498835 10.636794  L 182.498835 76.028386  z " style="fill:none;"/>
+   </g>
+   <g id="PolyCollection_21">
+    <path clip-path="url(#pc69f41b854)" d="M 185.289692 63.767463  L 185.289692 74.770855  L 189.010835 74.770855  L 189.010835 63.767463  L 189.010835 63.767463  L 185.289692 63.767463  z " style="fill:#ff0000;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_22">
+    <path clip-path="url(#pc69f41b854)" d="M 189.941121 33.90111  L 189.941121 54.335983  L 193.662263 54.335983  L 193.662263 33.90111  L 193.662263 33.90111  L 189.941121 33.90111  z " style="fill:#ff0000;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_23">
+    <path clip-path="url(#pc69f41b854)" d="M 194.592549 23.421689  L 194.592549 37.044937  L 198.313691 37.044937  L 198.313691 23.421689  L 198.313691 23.421689  L 194.592549 23.421689  z " style="fill:#ff0000;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_24">
+    <path clip-path="url(#pc69f41b854)" d="M 199.243977 18.181978  L 199.243977 32.329197  L 202.96512 32.329197  L 202.96512 18.181978  L 202.96512 18.181978  L 199.243977 18.181978  z " style="fill:#ff0000;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_25">
+    <path clip-path="url(#pc69f41b854)" d="M 203.895405 11.894325  L 203.895405 11.894325  L 207.616548 11.894325  L 207.616548 11.894325  L 207.616548 11.894325  L 203.895405 11.894325  z " style="fill:#ff0000;fill-opacity:0.3;"/>
+   </g>
+   <g id="LineCollection_21">
+    <path clip-path="url(#pc69f41b854)" d="M 185.289692 70.055116  L 189.010835 70.055116  " style="fill:none;stroke:#ff0000;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_22">
+    <path clip-path="url(#pc69f41b854)" d="M 189.941121 43.33259  L 193.662263 43.33259  " style="fill:none;stroke:#ff0000;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_23">
+    <path clip-path="url(#pc69f41b854)" d="M 194.592549 29.709342  L 198.313691 29.709342  " style="fill:none;stroke:#ff0000;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_24">
+    <path clip-path="url(#pc69f41b854)" d="M 199.243977 24.469631  L 202.96512 24.469631  " style="fill:none;stroke:#ff0000;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_25">
+    <path clip-path="url(#pc69f41b854)" d="M 203.895405 11.894325  L 207.616548 11.894325  " style="fill:none;stroke:#ff0000;stroke-width:3.0;"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 182.498835 10.636794  L 210.407405 10.636794  " style="fill:none;"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 210.407405 74.770855  L 210.407405 11.894325  " style="fill:none;"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 182.498835 76.028386  L 210.407405 76.028386  " style="fill:none;"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 182.498835 74.770855  L 182.498835 11.894325  " style="fill:none;"/>
+   </g>
+   <g id="matplotlib.axis_9"/>
+   <g id="matplotlib.axis_10"/>
+  </g>
+  <g id="axes_6">
+   <g id="patch_27">
+    <path d="M 55.753882 76.028386  L 83.662452 76.028386  L 83.662452 10.636794  L 55.753882 10.636794  L 55.753882 76.028386  z " style="fill:none;"/>
+   </g>
+   <g id="PolyCollection_26">
+    <path clip-path="url(#pda365baae4)" d="M 58.544739 59.051723  L 58.544739 74.770855  L 62.265882 74.770855  L 62.265882 59.051723  L 62.265882 59.051723  L 58.544739 59.051723  z " style="fill:#008000;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_27">
+    <path clip-path="url(#pda365baae4)" d="M 63.196167 74.770855  L 63.196167 74.770855  L 66.91731 74.770855  L 66.91731 74.770855  L 66.91731 74.770855  L 63.196167 74.770855  z " style="fill:#008000;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_28">
+    <path clip-path="url(#pda365baae4)" d="M 67.847596 55.907896  L 67.847596 74.770855  L 71.568738 74.770855  L 71.568738 55.907896  L 71.568738 55.907896  L 67.847596 55.907896  z " style="fill:#008000;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_29">
+    <path clip-path="url(#pda365baae4)" d="M 72.499024 59.051723  L 72.499024 74.770855  L 76.220166 74.770855  L 76.220166 59.051723  L 76.220166 59.051723  L 72.499024 59.051723  z " style="fill:#008000;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_30">
+    <path clip-path="url(#pda365baae4)" d="M 77.150452 55.907896  L 77.150452 74.770855  L 80.871595 74.770855  L 80.871595 55.907896  L 80.871595 55.907896  L 77.150452 55.907896  z " style="fill:#008000;fill-opacity:0.3;"/>
+   </g>
+   <g id="LineCollection_26">
+    <path clip-path="url(#pda365baae4)" d="M 58.544739 68.483202  L 62.265882 68.483202  " style="fill:none;stroke:#008000;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_27">
+    <path clip-path="url(#pda365baae4)" d="M 63.196167 74.770855  L 66.91731 74.770855  " style="fill:none;stroke:#008000;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_28">
+    <path clip-path="url(#pda365baae4)" d="M 67.847596 65.339376  L 71.568738 65.339376  " style="fill:none;stroke:#008000;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_29">
+    <path clip-path="url(#pda365baae4)" d="M 72.499024 68.483202  L 76.220166 68.483202  " style="fill:none;stroke:#008000;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_30">
+    <path clip-path="url(#pda365baae4)" d="M 77.150452 65.339376  L 80.871595 65.339376  " style="fill:none;stroke:#008000;stroke-width:3.0;"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 55.753882 10.636794  L 83.662452 10.636794  " style="fill:none;"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 83.662452 74.770855  L 83.662452 11.894325  " style="fill:none;"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 55.753882 76.028386  L 83.662452 76.028386  " style="fill:none;"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 55.753882 74.770855  L 55.753882 11.894325  " style="fill:none;"/>
+   </g>
+   <g id="matplotlib.axis_11"/>
+   <g id="matplotlib.axis_12"/>
+  </g>
+  <g id="axes_7">
+   <g id="patch_32">
+    <path d="M 151.121284 76.028386  L 179.029853 76.028386  L 179.029853 10.636794  L 151.121284 10.636794  L 151.121284 76.028386  z " style="fill:none;"/>
+   </g>
+   <g id="PolyCollection_31">
+    <path clip-path="url(#p5f68c4e5b1)" d="M 153.91214 65.339376  L 153.91214 74.770855  L 157.633283 74.770855  L 157.633283 65.339376  L 157.633283 65.339376  L 153.91214 65.339376  z " style="fill:#000000;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_32">
+    <path clip-path="url(#p5f68c4e5b1)" d="M 158.563569 55.907896  L 158.563569 74.770855  L 162.284711 74.770855  L 162.284711 55.907896  L 162.284711 55.907896  L 158.563569 55.907896  z " style="fill:#000000;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_33">
+    <path clip-path="url(#p5f68c4e5b1)" d="M 163.214997 74.770855  L 163.214997 74.770855  L 166.936139 74.770855  L 166.936139 74.770855  L 166.936139 74.770855  L 163.214997 74.770855  z " style="fill:#000000;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_34">
+    <path clip-path="url(#p5f68c4e5b1)" d="M 167.866425 46.476417  L 167.866425 68.483202  L 171.587568 68.483202  L 171.587568 46.476417  L 171.587568 46.476417  L 167.866425 46.476417  z " style="fill:#000000;fill-opacity:0.3;"/>
+   </g>
+   <g id="PolyCollection_35">
+    <path clip-path="url(#p5f68c4e5b1)" d="M 172.517853 21.325804  L 172.517853 46.476417  L 176.238996 46.476417  L 176.238996 21.325804  L 176.238996 21.325804  L 172.517853 21.325804  z " style="fill:#000000;fill-opacity:0.3;"/>
+   </g>
+   <g id="LineCollection_31">
+    <path clip-path="url(#p5f68c4e5b1)" d="M 153.91214 71.627029  L 157.633283 71.627029  " style="fill:none;stroke:#000000;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_32">
+    <path clip-path="url(#p5f68c4e5b1)" d="M 158.563569 65.339376  L 162.284711 65.339376  " style="fill:none;stroke:#000000;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_33">
+    <path clip-path="url(#p5f68c4e5b1)" d="M 163.214997 74.770855  L 166.936139 74.770855  " style="fill:none;stroke:#000000;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_34">
+    <path clip-path="url(#p5f68c4e5b1)" d="M 167.866425 59.051723  L 171.587568 59.051723  " style="fill:none;stroke:#000000;stroke-width:3.0;"/>
+   </g>
+   <g id="LineCollection_35">
+    <path clip-path="url(#p5f68c4e5b1)" d="M 172.517853 33.90111  L 176.238996 33.90111  " style="fill:none;stroke:#000000;stroke-width:3.0;"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 151.121284 10.636794  L 179.029853 10.636794  " style="fill:none;"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 179.029853 74.770855  L 179.029853 11.894325  " style="fill:none;"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 151.121284 76.028386  L 179.029853 76.028386  " style="fill:none;"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 151.121284 74.770855  L 151.121284 11.894325  " style="fill:none;"/>
+   </g>
+   <g id="matplotlib.axis_13"/>
+   <g id="matplotlib.axis_14"/>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8845c48bae">
+   <rect height="65.3915921613" width="27.9085693718" x="215.188264612" y="9.76896771128"/>
+  </clipPath>
+  <clipPath id="pc69f41b854">
+   <rect height="65.3915921613" width="27.9085693718" x="182.498835443" y="10.6367939039"/>
+  </clipPath>
+  <clipPath id="pa383305fb5">
+   <rect height="65.3915921613" width="27.9085693718" x="23.0644539041" y="10.6367939039"/>
+  </clipPath>
+  <clipPath id="pde013550a1">
+   <rect height="65.3915921613" width="27.9085693718" x="87.7250512511" y="10.2645837555"/>
+  </clipPath>
+  <clipPath id="p5f68c4e5b1">
+   <rect height="65.3915921613" width="27.9085693718" x="151.121283501" y="10.6367939039"/>
+  </clipPath>
+  <clipPath id="pb5babb6af1">
+   <rect height="65.3915921613" width="27.9085693718" x="119.150128274" y="9.76896771128"/>
+  </clipPath>
+  <clipPath id="pda365baae4">
+   <rect height="65.3915921613" width="27.9085693718" x="55.7538821483" y="10.6367939039"/>
+  </clipPath>
+ </defs>
+</g>
 </svg>
