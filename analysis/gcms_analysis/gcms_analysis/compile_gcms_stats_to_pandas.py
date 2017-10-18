@@ -617,7 +617,48 @@ def plot_CHC_matrix(pd, layout):
     ax.set_aspect('auto')
     figurefirst.mpl_functions.adjust_spines(ax, [])
     return layout 
-    
+
+def update_numerical_chc_values(pd):
+    layout = get_paper_layout(subfig='chc')
+
+    HC_mixes = ['Codd', 'Codd_Me', 'Codd_alkene_diene', 'Ceven', 'Ceven_Me', 'Ceven_alkene_diene']
+    CHC_shortname = {'Codd': 'Codd',
+                     'Codd_Me': 'MeCodd',
+                     'Codd_alkene_diene': 'AlkDieCodd',
+                     'Ceven': 'Ceven',
+                     'Ceven_Me': 'MeCeven',
+                     'Ceven_alkene_diene': 'AlkDieCeven'}
+    SP_shortname = {'bluekelp': 'Fr',
+                    'blackkelp': 'Cv',
+                    'ephydra': 'AF',
+                    'santaana': 'Esp',
+                    'oilfly': 'Hp',
+                    'melanogaster': 'Dm',
+                    'virilis': 'Dv'}
+
+    CHC_matrix = np.zeros([len(SPECIES),len(HC_mixes)])
+
+    for r, species in enumerate(SPECIES):
+        for c, HC in enumerate(HC_mixes):
+            svgtext = layout.svgitems[CHC_shortname[HC]][SP_shortname[species]]
+            percent = pd[pd.species==species][HC].values[0]
+            svgtext.text = str(int(percent))+'%'
+
+        svgtext = layout.svgitems['GCRT'][SP_shortname[species]]
+        svgtext.text = str(int(pd[pd.species==species]['RetTimeAvg'].values[0]))
+
+        svgtext = layout.svgitems['Hairiness'][SP_shortname[species]]
+        svgtext.text = '{0:.2f}'.format(pd[pd.species==species]['hairyness'].values[0])[1:] 
+
+        svgtext = layout.svgitems['Pulvilli'][SP_shortname[species]]
+        svgtext.text = str(int(pd[pd.species==species]['pulvilli'].values[0]) ) 
+
+        svgtext = layout.svgitems['Size'][SP_shortname[species]]
+        svgtext.text = str(pd[pd.species==species]['size'].values[0]) 
+
+    layout.apply_svg_attrs()
+    layout.write_svg(mono_paper_locations.figure_template_locations.figure3_chc )
+
 def plot_hairyness(pd, layout):
     ax = layout.axes[('correlation_matrix', 'hairy_matrix')]
     
